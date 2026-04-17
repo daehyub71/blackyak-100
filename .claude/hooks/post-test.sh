@@ -27,7 +27,7 @@ fi
 
 cd "$FRONTEND" || exit 0
 
-if command -v pnpm >/dev/null 2>&1 && [ -f vitest.config.ts ]; then
+if command -v pnpm >/dev/null 2>&1 && { [ -f vitest.config.ts ] || [ -f vite.config.ts ]; }; then
   REL_FILE="${FILE#$FRONTEND/}"
   printf '[hook] vitest related --run %s\n' "$REL_FILE"
   pnpm --silent vitest related --run "$REL_FILE" 2>&1 | tail -30 || true
