@@ -76,20 +76,23 @@ SPEC·PLAN 변경 시 관련 항목을 역추적하여 갱신.
 
 ## Phase 1 · 데이터 & 컴포넌트 기초
 
-**상태**: ⏸ 대기
+**상태**: 🚧 진행 중
 **기간 목표**: 1주
 **완료일**: —
 
-### P1.1 데이터 마이그레이션
-- [ ] v1 `mountain_info/` 99개 JSON → `frontend/public/mountain_info/`
-- [ ] v1 `trails/` 62개 JSON + `index.json` → `frontend/public/trails/`
-- [ ] v1 `data/` (CSV·GPX) → `data/`
-- [ ] v1 `scripts/` (크롤러·변환기) → `scripts/`
+### P1.1 데이터 마이그레이션 (P0에서 선처리)
+- [x] v1 `mountain_info/` 99개 JSON → `frontend/public/mountain_info/`
+- [x] v1 `trails/` 103개 JSON + `index.json` → `frontend/public/trails/`
+- [x] v1 `data/` (CSV·GPX) → `data/`
+- [x] v1 `scripts/` (크롤러·변환기) → `scripts/`
 
 ### P1.2 스키마 & 로더
-- [ ] `src/data/schemas.ts` — Mountain, Trail, TrailIndex, MountainDerived zod 스키마
-- [ ] `src/data/loaders.ts` — TanStack Query queryFn + zod 런타임 검증
-- [ ] 스키마 단위 테스트 — 정상/이상 케이스
+- [x] `src/data/schemas.ts` — Mountain, Trail, NationalParkMeta, TrailIndex zod 스키마
+- [x] `src/data/loaders.ts` — TanStack Query queryOptions + zod 런타임 검증
+- [x] 스키마 단위 테스트 — 12건 + 실제 99 산 / 84 track / 18 np / 1 index 전수 검증 204건
+- [x] loader 단위 테스트 — fetchValidated + query key 7건
+- [x] `frontend/scripts/validate-json.ts` — pre-data 훅용 CLI validator
+- [x] pre-data 훅 동작 확인
 
 ### P1.3 파생 데이터
 - [ ] `scripts/build_derived.py` — 난이도·소요시간·계절·태그 계산
