@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+playwright-report
+public/mountain_info
+public/trails
+public/derived
+pnpm-lock.yaml

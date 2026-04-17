@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+dist/
+build/
+.next/
+.vite/
+*.egg-info/
+
+# Test / Coverage
+coverage/
+.vitest/
+playwright-report/
+test-results/
+.lighthouseci/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Claude local settings
+.claude/settings.local.json
+
+# Temporary
+*.tmp
+*.temp
+.cache/

@@ -1,0 +1,100 @@
+﻿id,name,certification_point,altitude,region,address,latitude,longitude,image_url,first_char
+1,가리산(홍천),정상,1051,강원도,강원 홍천군 두촌면,37.871378,127.956469,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/237_0_20131128273.jpg,ㄱ
+2,가리왕산,정상,1561,강원도,강원 정선군 정선읍 회동리,37.461642,128.563042,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_215_0_1720137728_.png,ㄱ
+3,가야산(경상),정상,1430,경상남도,경남 합천군 가야면,35.823577,128.120582,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_143_0_1679876624_.jpg,ㄱ
+4,가야산(충남),정상(정상석 설치),678,충청남도,충남 예산군,36.706541,126.608205,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/216_0_20131128994.jpg,ㄱ
+5,가지산,정상,1241,울산광역시,울산 울주군 상북면,35.619684,129.002975,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_144_0_1679901811_.jpg,ㄱ
+6,감악산(원주),원주/제천 정상석,945,강원도,강원 원주시 신림면 용암리,37.229681,128.141768,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_1379_0_1673585237_.jpg,ㄱ
+7,감악산(파주),정상,674,경기도,경기 파주시 적성면 설마리,37.941077,126.969883,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_238_0_1666255762_.png,ㄱ
+8,계룡산,관음봉,766,충청남도,충남 공주시,36.352011,127.200346,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/145_0_20131128763.jpg,ㄱ
+9,계방산,정상,1577,강원도,강원 평창군 용평면 노동리,37.728257,128.465416,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_192_0_1639955664_.jpeg,ㄱ
+10,관악산,정상,629,서울특별시,서울 관악구 대학동,37.444935,126.964317,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_146_0_1695706234_.jpg,ㄱ
+11,광덕산,정상,699,충청남도,충남 천안시 동남구 광덕면,36.687811,127.027875,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/198_0_20131128311.jpg,ㄱ
+12,구병산(보은),정상,877,충청북도,충북 보은군 마로면,36.469584,127.861734,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/217_0_20131128156.jpg,ㄱ
+13,구봉산(진안),천왕봉,1002,전라북도,전북 진안군 주천면 운봉리,35.92316,127.416524,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_218_0_1695706610_.jpg,ㄱ
+14,금수산,정상,1016,충청북도,충북 제천시 수산면 상천리,36.984983,128.256754,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/208_0_20131128975.jpg,ㄱ
+15,금오산(구미),현월봉,977,경상북도,경북 구미시 남통동,36.091786,128.300225,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/147_0_20131128892.jpg,ㄱ
+16,금정산,고당봉,801,경상남도,경남 양산시 동면 가산리 산 1-1,35.280139,129.050583,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/246_0_20140225127.jpg,ㄱ
+17,남산(경주),금오봉,468,경상북도,경북 경주시,35.788846,129.222876,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_184_0_1679878710_.jpg,ㄴ
+18,내변산(부안),관음봉,424,전라북도,전북 부안군 변산면,35.623238,126.582396,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/225_0_20131128778.jpg,ㄴ
+19,내연산,삼지봉,711,경상북도,경북 영덕군 남정면,36.278644,129.289861,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/219_0_20131128823.jpg,ㄴ
+20,내장산,신선봉,763,전라북도,전북 정읍시 내장동,35.47832,126.889075,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/148_0_20131128857.jpg,ㄴ
+21,달마산,달마봉,489,전라남도,전남 해남군 송지면 가차리,34.382578,126.585164,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_195_0_1695706563_.jpg,ㄷ
+22,대둔산,마천대,878,충청남도,충남 논산시,36.124589,127.320472,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/149_0_20131128773.jpg,ㄷ
+23,대야산,정상,931,충청북도,충북 괴산군 청천면,36.669121,127.929446,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1377_0_20170901556.jpg,ㄷ
+24,덕룡산,서봉,432,전라남도,전남,34.538568,126.699227,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1933_0_20210825334.jpg,ㄷ
+25,덕유산,향적봉,1614,전라북도,전북 무주군 설천면 삼공리 411-8,35.859883,127.746321,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_150_0_1731049312_.png,ㄷ
+26,덕항산,정상,1071,강원도,강원 삼척시 하장면,37.309148,129.012521,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_209_0_1742801371_.png,ㄷ
+27,도락산,정상,964,충청북도,충북 단양군 단성면 가산리,36.856303,128.311325,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_187_0_1679877457_.jpg,ㄷ
+28,도봉산,신선대,740,서울특별시,서울 도봉구 도봉동,37.698506,127.015026,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/151_0_20131128637.jpg,ㄷ
+29,동악산(곡성),시루봉,735,전라남도,전남 곡성군 곡성읍,35.282,127.251925,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/221_0_20131128687.jpg,ㄷ
+30,두륜산,가련봉,703,전라남도,전남 해남군 삼산면,34.471914,126.637561,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/214_0_20131128338.jpg,ㄷ
+31,두타산,정상,1353,강원도,강원 삼척시 하장면,37.426639,129.004428,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/152_0_20131128262.jpg,ㄷ
+32,마니산(강화도),정상,472,인천광역시,인천 강화군 화도면,37.615564,126.430025,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1380_0_20170901942.jpg,ㅁ
+33,마이산(진안),비룡대,686,전라북도,전북,35.763584,127.396739,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1931_0_20131128121.jpg,ㅁ
+34,명지산,정상,1267,경기도,경기 가평군 북면,37.941532,127.432207,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/154_0_20131128941.jpg,ㅁ
+35,모악산,정상,793,전라북도,전북 완주군 구이면,35.728588,127.08524,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/223_0_20131128365.jpg,ㅁ
+36,무등산,서석대 정상석/ 인왕봉 정상석,1100,광주광역시,광주 동구 지산동,35.120971,127.002791,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_155_0_1730879717_.png,ㅁ
+37,민주지산,정상,1241,충청북도,충북 영동군 용화면,36.039956,127.849098,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_189_0_1742866784_.jpg,ㅁ
+38,방장산,정상,742,전라남도,전남 장성군 북이면,35.455635,126.754379,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_157_0_1634271056_.jpg,ㅂ
+39,방태산,주억봉,1444,강원도,강원 인제군 기린면,37.888115,128.390009,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_158_0_1742801402_.png,ㅂ
+40,백덕산,정상,1350,강원도,강원 영월군 수주면 법흥리,37.396431,128.2935,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/203_0_20131128815.jpg,ㅂ
+41,백암산,상왕봉,741,전라남도,전남 장성군 북하면,35.461286,126.868469,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/159_0_20131128549.jpg,ㅂ
+42,백운산(광양),상봉,1222,전라남도,전남 광양시 옥룡면,35.106372,127.621344,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/242_0_20131128588.jpg,ㅂ
+43,백운산(동강),정상,882,강원도,강원 정선군 신동읍,37.279994,128.596094,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_186_0_1679877066_.jpg,ㅂ
+44,북한산,백운대,837,서울특별시,서울 성북구 정릉동 산1-1,37.658698,126.978272,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_160_0_1619408184_.png,ㅂ
+45,불갑산(영광),연실봉,516,전라남도,전남 영광군 불갑면,35.19074,126.565029,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_212_0_1706599446_.jpg,ㅂ
+46,비슬산,천왕봉,1084,대구광역시,대구 달성군 유가면,35.715453,128.523791,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_226_0_1679903529_.jpg,ㅂ
+47,삼악산,용화봉,654,강원도,강원 춘천시 서면,37.839782,127.660429,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_244_0_1677485578_.jpg,ㅅ
+48,선운산,수리봉,336,전라북도,전북 고창군 아산면,35.498586,126.569022,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/162_0_20131128564.jpg,ㅅ
+49,설악산,대청봉,1708,강원도,강원 양양군 서면 오색리,38.119062,128.465286,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_163_0_1742867072_.jpg,ㅅ
+50,소백산,비로봉,1440,경상북도,경북 영주시 풍기읍,36.957437,128.484869,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/164_0_20131128674.jpg,ㅅ
+51,소요산,의상대 ,587,경기도,경기  동두천시 소요동,37.938513,127.08791,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_185_0_1630389534_.jpg,ㅅ
+52,속리산,천왕봉,1057,충청북도,충북 보은군 속리산면 상판리 19-1,36.543193,127.870804,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/165_0_20131128569.jpg,ㅅ
+53,수락산,주봉,640,서울특별시,서울 노원구 상계동,37.699173,127.081237,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_183_0_1695706359_.jpg,ㅅ
+54,신불산,정상,1159,울산광역시,울산 울주군 상북면,35.539361,129.054111,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_166_0_1737348777_.jpg,ㅅ
+55,연인산,정상,1068,경기도,경기 가평군 가평읍 승안리,37.898784,127.414388,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/167_0_20131128119.jpg,ㅇ
+56,오대산 노인봉,노인봉,1338,강원도,강원 강릉시 연곡면,37.78251,128.639083,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/232_0_20131128616.jpg,ㅇ
+57,오대산 비로봉,비로봉,1565,강원도,강원 평창군 진부면 동산리 75-6,37.794591,128.543609,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/168_0_20131128162.jpg,ㅇ
+58,오봉산(춘천),정상(5봉),779,강원도,강원 춘천시 북산면,38.000049,127.807134,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_227_0_1695706649_.jpg,ㅇ
+59,오서산(보령),정상,791,충청남도,충남 홍성군 광천읍,36.458367,126.659331,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/188_0_20131128989.jpg,ㅇ
+60,용문산(양평),가섭봉 정상석,1157,경기도,경기 양평군 용문면 신점리 625,37.56215,127.548597,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/169_0_20131128964.jpg,ㅇ
+61,용봉산(홍성),정상,381,충청남도,충남 홍성군 홍북면,36.643662,126.64925,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/201_0_20131128372.jpg,ㅇ
+62,용화산,정상,878,강원도,강원 춘천시 사북면 고탄리,38.038181,127.747992,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/734_0_20160301162.jpg,ㅇ
+63,운악산,서봉,936,경기도,경기,37.878689,127.322899,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1934_0_20131128216.jpg,ㅇ
+64,운장산,운장대,1126,전라북도,전북 진안군 주천면,35.911331,127.357646,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/228_0_20131128788.jpg,ㅇ
+65,월악산,영봉,1097,충청북도,충북 제천시 한수면,36.88608,128.105847,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_191_0_1637562690_.jpg,ㅇ
+66,월출산,천황봉 정상석,809,전라남도,전남 영암군 영암읍,34.766684,126.704081,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_170_0_1660193150_.jpg,ㅇ
+67,유명산,정상,862,경기도,경기 가평군 설악면,37.575283,127.486572,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/229_0_20131128846.jpg,ㅇ
+68,응봉산(울진),정상,998,강원도,강원 삼척시 가곡면,37.076589,129.230517,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/196_0_20131128493.jpg,ㅇ
+69,장안산,정상,1237,전라북도,전북 장수군 장수읍,35.629213,127.595046,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/230_0_20131128396.jpg,ㅈ
+70,재약산,수미봉,1189,경상남도,경남 밀양시 단장면,35.545386,128.980541,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_239_0_1679901729_.jpg,ㅈ
+71,조계산,장군봉,888,전라남도,전남 순천시 송광면,35.001299,127.31359,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/172_0_20131128219.jpg,ㅈ
+72,조령산,정상,1026,경상북도,경북 문경시 문경읍,36.771456,128.044244,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/199_0_20131128866.jpg,ㅈ
+73,주왕산,주봉,721,경상북도,경북 청송군 부동면,36.38935,129.162394,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/173_0_20131128299.jpg,ㅈ
+74,주흘산,주봉,1106,경상북도,경북,36.778068,128.106006,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1930_0_20131128942.jpg,ㅈ
+75,지리산,지리산 천왕봉,1915,경상남도,경남 함양군,35.33691,127.730623,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/174_0_20131128893.jpg,ㅈ
+76,지리산 바래봉,바래봉,1165,전라북도,전북 남원시 운봉읍,35.421814,127.57632,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/156_0_20131128136.jpg,ㅈ
+77,지리산 반야봉,반야봉,1732,전라북도,전북 남원시,35.316596,127.569399,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_224_0_1737348758_.jpg,ㅈ
+78,천관산,연대봉,724,전라남도,전남 장흥군 관산읍,34.531669,126.919697,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/175_0_20131128696.jpg,ㅊ
+79,천마산,정상석,812,경기도,경기 남양주시 화도읍,37.680237,127.273314,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1739_0_20190902858.jpg,ㅊ
+80,천태산,정상,714,충청북도,충북 영동군 양산면,36.159169,127.6001,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/210_0_20131128685.jpg,ㅊ
+81,청계산,매봉,582,서울특별시,서울 서초구 신원동,37.427998,127.043578,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/190_0_20131128455.jpg,ㅊ
+82,청량산,장인봉,870,경상북도,경북 봉화군 명호면,36.794336,128.908553,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/197_0_20131128252.jpg,ㅊ
+83,청화산,정상,970,충청북도,충북 괴산군 청천면,36.603707,127.920357,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_231_0_1623047180_.jpg,ㅊ
+84,축령산(장성),정상,621,전라남도,전남 장성군 서삼면,35.370958,126.726042,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/207_0_20131128542.jpg,ㅊ
+85,치악산,비로봉,1288,강원도,강원 원주시 소초면 학곡리 900,37.364995,128.055601,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/177_0_20131128321.jpg,ㅊ
+86,칠갑산(청양),정상,561,충청남도,충남 청양군 대치면,36.413035,126.884918,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/211_0_20131128418.jpg,ㅊ
+87,칠보산(괴산),정상,778,충청북도,충북 괴산군 칠성면 태성리,36.740037,127.927891,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1501_0_20180710928.jpg,ㅊ
+88,태백산,천제단,1567,강원도,강원 태백시,37.096379,128.916636,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/1932_0_20131128936.jpg,ㅌ
+89,태화산,정상,1027,강원도,강원 영월군 영월읍,37.117592,128.485383,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/194_0_20131128468.jpg,ㅌ
+90,팔공산,비로봉,1193,경상북도,경북 칠곡군 동명면 득명리 113-1,36.016377,128.694556,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_179_0_1694478701_.jpg,ㅍ
+91,팔봉산(홍천),팔봉산(2봉인증),327,강원도,강원 홍천군 서면,37.695984,127.697044,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_233_0_1615351505_.jpg,ㅍ
+92,팔영산,깃대봉,608,전라남도,전남 고흥군 점암면,34.617153,127.436453,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/202_0_20131128192.jpg,ㅍ
+93,한라산,백록담,1950,제주특별자치도,제주,33.361009,126.535659,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_213_0_1655171937_.jpg,ㅎ
+94,함백산,정상,1573,강원도,강원 정선군 고한읍,37.161181,128.917603,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_193_0_1742801415_.png,ㅎ
+95,화악산(가평),중봉,1446,경기도,경기 가평군 북면,37.989347,127.498155,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/180_0_20131128571.jpg,ㅎ
+96,화왕산(창녕),정상,756,경상남도,경남 창녕군 창녕읍,35.547123,128.531684,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/181_0_20131128155.jpg,ㅎ
+97,황매산(산청),정상,1108,경상남도,경남 합천군 가회면,35.494066,127.974609,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/206_0_20131128471.jpg,ㅎ
+98,황석산(함양),황석산 정상석,1192,경상남도,경남 함양군 서하면 봉전리,35.655174,127.755471,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/program_place_235_0_1758012130_.png,ㅎ
+99,황악산(김천),정상,1111,경상북도,경북 김천시 대항면,36.118076,127.966822,https://ssproxy.ucloudbiz.olleh.com/v1/AUTH_aa0c3b93-1abc-4592-8744-2c2e0e039cd4/program_place_image/234_0_20131128246.jpg,ㅎ
