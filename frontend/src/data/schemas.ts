@@ -133,3 +133,21 @@ export type TrailIndexEntry = z.infer<typeof TrailIndexEntrySchema>;
 export const TrailIndexSchema = z.array(TrailIndexEntrySchema);
 
 export type TrailIndex = z.infer<typeof TrailIndexSchema>;
+
+// 파생 필드 — scripts/build_derived.py 로 생성
+export const DifficultySchema = z.enum(['쉬움', '보통', '어려움']);
+export const DurationBucketSchema = z.enum(['최단', '2-3h', '4-5h', '5h+']);
+export const SeasonSchema = z.enum(['봄', '여름', '가을', '겨울']);
+
+export const MountainDerivedSchema = MountainSchema.extend({
+  difficulty: DifficultySchema,
+  duration_bucket: DurationBucketSchema,
+  seasons: z.array(SeasonSchema).min(1),
+  tags: z.array(z.string()),
+  collections: z.array(z.string()),
+  trail_distance_km: z.number().nonnegative().nullable(),
+});
+
+export type MountainDerived = z.infer<typeof MountainDerivedSchema>;
+
+export const MountainDerivedListSchema = z.array(MountainDerivedSchema).length(99);

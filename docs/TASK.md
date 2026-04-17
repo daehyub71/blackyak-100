@@ -95,9 +95,10 @@ SPEC·PLAN 변경 시 관련 항목을 역추적하여 갱신.
 - [x] pre-data 훅 동작 확인
 
 ### P1.3 파생 데이터
-- [ ] `scripts/build_derived.py` — 난이도·소요시간·계절·태그 계산
-- [ ] `public/derived/mountains.json` 생성 성공 + 스키마 통과
-- [ ] 계산 로직 docstring (상단에 공식·임계값 명시)
+- [x] `scripts/build_derived.py` — 난이도·소요시간·계절·태그 계산
+- [x] `public/derived/mountains.json` 생성 성공 + 스키마(`MountainDerivedListSchema`) 통과
+- [x] 계산 로직 docstring (난이도/소요시간 공식 + 지역 정규화 로직)
+- [x] 파생 데이터 테스트 — 99개·중복 없음·태그 비어있지 않음·난이도 분포 4건
 
 ### P1.4 공용 컴포넌트 + 테스트 (TDD)
 - [ ] `MountainCard` 테스트 → 구현
