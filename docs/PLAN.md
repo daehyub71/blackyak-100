@@ -250,6 +250,28 @@ SPEC 목표 범위를 5개 Phase로 분할한다.
 9. 다음 TASK로
 ```
 
+### 로컬 테스트 원칙
+
+각 Phase **완료 시점 + 주요 TASK 완료 시점**마다 다음을 수동 실행해 육안·손가락으로 확인한다.
+
+```bash
+cd frontend
+pnpm dev              # 브라우저에서 http://localhost:5173
+pnpm test:run         # 단위 테스트
+pnpm build            # 프로덕션 번들 확인
+pnpm test:e2e         # Playwright (P2부터)
+```
+
+**모바일 실기기 확인**은 P2·P3·P4 완료 시점에 반드시 수행한다 (iPhone/Android 실제 단말에서 터치·제스처·타이포 확인). 로컬 dev 서버를 같은 Wi-Fi의 모바일에서 접속해 테스트:
+
+```bash
+# Mac IP 확인
+ipconfig getifaddr en0
+# 모바일 브라우저에서 http://<ip>:5173
+```
+
+배포(Vercel)는 **P4에서만** 수행한다. P0~P3는 로컬 테스트만으로 진행.
+
 ## 7. 다음 단계
 
 1. [TASK.md](TASK.md) 의 P0 체크리스트에 따라 하네스 구축 + 프로젝트 초기화 착수
