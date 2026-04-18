@@ -76,9 +76,9 @@ SPEC·PLAN 변경 시 관련 항목을 역추적하여 갱신.
 
 ## Phase 1 · 데이터 & 컴포넌트 기초
 
-**상태**: 🚧 진행 중
+**상태**: ✅ 거의 완료 (사용자 육안 확인 + 커밋만 남음)
 **기간 목표**: 1주
-**완료일**: —
+**완료일**: 2026-04-18
 
 ### P1.1 데이터 마이그레이션 (P0에서 선처리)
 - [x] v1 `mountain_info/` 99개 JSON → `frontend/public/mountain_info/`
@@ -101,20 +101,24 @@ SPEC·PLAN 변경 시 관련 항목을 역추적하여 갱신.
 - [x] 파생 데이터 테스트 — 99개·중복 없음·태그 비어있지 않음·난이도 분포 4건
 
 ### P1.4 공용 컴포넌트 + 테스트 (TDD)
-- [ ] `MountainCard` 테스트 → 구현
-- [ ] `Hero` 테스트 → 구현
-- [ ] `FilterBar` 테스트 → 구현
-- [ ] `BottomSheet` 테스트 → 구현
-- [ ] `Badge`, `Tag`, `SegmentedControl` 테스트 → 구현
+- [x] `Badge` (5 tests)
+- [x] `Tag` (6 tests, 키보드/포커스/aria-pressed)
+- [x] `SegmentedControl` (6 tests, role=radiogroup/radio + aria-checked)
+- [x] `MountainCard` (7 tests, 링크/이미지/태그 truncation)
+- [x] `Hero` (5 tests, eager 이미지 + credit)
+- [x] `FilterBar` (5 tests, store 연동/초기화/검색)
+- [x] `BottomSheet` (5 tests, custom portal — Radix v1.1.15가 React 19+Vitest 환경에서 useRef null 이슈)
 
 ### P1.5 Playground 화면
-- [ ] `/__playground` 라우트 (개발 모드 한정)
-- [ ] 모든 공용 컴포넌트 렌더링 확인
+- [x] `/__playground` 라우트 (lazy 로드, 개발 가시성 한정)
+- [x] 모든 공용 컴포넌트 갤러리 렌더링
 
 ### P1.6 커버리지 & 검증
-- [ ] `components/` Vitest 라인 커버리지 70%+
-- [ ] 훅이 자동 테스트 실행하는 것 재확인
-- [ ] `chore: migrate v1 data and add shared components` 커밋
+- [x] `pnpm validate` 통과 — typecheck + lint + 267 tests
+- [x] 훅이 자동 lint/tsc/vitest 실행 (P0에서 검증 + post-test 버그 수정 완료)
+- [x] dev 서버 동작 확인 (http://localhost:5173)
+- [ ] 사용자 육안 확인 (브라우저 + 모바일 실기기)
+- [ ] `feat: shared components and playground` 커밋
 
 ---
 

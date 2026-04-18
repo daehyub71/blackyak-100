@@ -47,6 +47,13 @@ export const router = createBrowserRouter([
           return { Component: CollectionDetailPage };
         },
       },
+      {
+        path: '__playground',
+        lazy: async () => {
+          const { PlaygroundPage } = await import('@/features/__playground/PlaygroundPage');
+          return { Component: PlaygroundPage };
+        },
+      },
     ],
   },
 ]);
